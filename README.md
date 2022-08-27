@@ -1,6 +1,6 @@
 *Olá, meu nome é Eron Moraes*
 
-*sou estudante de programação com foco em análise e testes de software.*
+*Sou estudante de programação com foco em análise e testes de software.*
 
 <div align="center">
   <a href="https://github.com/eron-moraes">
