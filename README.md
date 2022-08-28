@@ -26,9 +26,4 @@
  
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/eron-moraes/eron-moraes/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
