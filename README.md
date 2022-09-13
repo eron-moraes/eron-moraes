@@ -26,5 +26,7 @@
   
  
 </div>
-
+<div>## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/eron-moraes/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+</div>
 
