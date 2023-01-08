@@ -25,8 +25,8 @@
  	
   <a href="https://www.linkedin.com/in/eronmoraes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![snake gif](https://github.com/eron-moraes/eron-moraes/blob/output/github-contribution-grid-snake.svg)
-
+  ![snake gif](https://github.com/eron-moraes/eron-moraes/blob/output/github-user-contribution.svg)
+github-user-contribution.svg
   
  
 
