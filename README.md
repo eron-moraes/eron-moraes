@@ -16,6 +16,8 @@
   <img align="center" alt="eron-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="eron-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="eron-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
+  ![cypress-io-logos-idv3zwmSiY](https://github.com/eron-moraes/eron-moraes/assets/110741158/8550ebcb-715e-4a24-87c8-e85786f4e4b3)
+
  
 
  
