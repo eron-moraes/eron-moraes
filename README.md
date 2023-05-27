@@ -17,6 +17,8 @@
   <img align="center" alt="eron-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="eron-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   
+  <img align="center" alt="eron-Cucumber" height="30" width="40" src=![cypress-svgrepo-com](https://github.com/eron-moraes/eron-moraes/assets/110741158/d05f3a84-04ea-490a-ba36-cfa7463f4516)>
+
 
 </div>
 
