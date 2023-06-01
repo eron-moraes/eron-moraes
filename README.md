@@ -17,7 +17,7 @@
   <img align="center" alt="eron-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="eron-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   
-<img align="center" alt="eron-Cypress" height="40" width="50" src="https://asset.brandfetch.io/idIq_kF0rb/idyrT1-xjS.svg")
+<img align="center" alt="eron-Cypress" height="40" width="50" src="https://asset.brandfetch.io/idIq_kF0rb/idyrT1-xjS.svg">
  
 
  
