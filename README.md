@@ -2,10 +2,6 @@
 
 *Sou estudante de Engenharia de Software com foco em Análise de Testes de Software.* </br>
 *Fui engenheiro da millennium falcon por 1 dia! #Realizado!*
-<div align="center">
-  <a href="https://github.com/eron-moraes">
-  <img height="180em" src="![falcon-attack-gifs](https://github.com/eron-moraes/eron-moraes/assets/110741158/6acf6964-ad2a-4945-a922-bfdef1a82dd7)">
-    <div>
 
 <div align="center">
   <a href="https://github.com/eron-moraes">
