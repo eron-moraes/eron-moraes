@@ -1,7 +1,7 @@
 *Olá, meu nome é Eron Moraes*
 
 *Sou estudante de Engenharia de Software com foco em Análise de Testes de Software.* </br>
-*Fui engenheiro da millennium falcon por 1 dia! #Realizado!*
+*Fui engenheiro da millennium falcon por um dia! #Realizado!*
 
 <div align="center">
   <a href="https://github.com/eron-moraes">
