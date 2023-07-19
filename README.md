@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### ⚡ Github Stats</b></summary>
+[comment]: ![Metrics](https://metrics.lecoq.io/leandrocgsi?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="eron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
