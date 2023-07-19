@@ -5,7 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/eron-moraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eron-moraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 #######
@@ -13,6 +14,9 @@
 
 ### ⚡ Github Stats</b></summary>
 [comment]: ![Metrics](https://metrics.lecoq.io/leandrocgsi?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eron-moraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
