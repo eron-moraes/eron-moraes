@@ -36,7 +36,7 @@
 
   ##
   
-  ![snake-game](https://github.com/eron-moraes/eronmoraes/raw/output/github-contribution-grid-snake.svg)
+  ![snake-game](https://github.com/eron-moraes/eron-moraes/raw/output/github-contribution-grid-snake.svg)
 
   
 
