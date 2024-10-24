@@ -1,6 +1,6 @@
 *Olá, meu nome é Eron Moraes*
 
-*Sou estudante de Engenharia de Software com foco nos estudos das técnicas de Testes de Software.* </br>
+*Sou Analista de QA trabalhando com automação de teste de software. Estudante de Engenharia de Software e fazendo pós em teste e qualidade de software.* </br>
 *Fui engenheiro da millennium falcon por um dia! #Realizado!*
 
 <div align="center">
