@@ -1,6 +1,6 @@
-*Olá, meu nome é Eron Moraes*
+👋 *Olá, sou Eron Moraes!*
 
-*Sou Analista de QA trabalhando com automação de teste de software. Estudante de Engenharia de Software e fazendo pós em teste e qualidade de software.* </br>
+*Atuo como Analista de QA, com foco em automação de testes de software. Me formando em Engenharia de Software e me especializando em Qualidade de Software. Com forte experiência em testes funcionais, não funcionais, API, e automação de testes utilizando o framework Cypress.*</br>
 *Fui engenheiro da millennium falcon por um dia! #Realizado!*
 
 <div align="center">
