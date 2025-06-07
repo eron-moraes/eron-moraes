@@ -1,21 +1,28 @@
-name: Generate Snake Animation
+# .github/workflows/snake.yml
+
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: eron-moraes
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#39FF14" # verde neon
+          color_dots: "#282c34,#3c4048,#4e545c,#6c757d,#adb5bd" # tons escuros
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
