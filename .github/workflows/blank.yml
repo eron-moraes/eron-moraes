@@ -17,7 +17,7 @@ jobs:
           github_user_name: eron-moraes
           outputs: dist/github-contribution-grid-snake.svg
 
-          palette: github-dracula
+          palette: github-dark
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
