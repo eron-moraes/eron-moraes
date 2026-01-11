@@ -1,6 +1,6 @@
 👋 *Olá, sou Eron Moraes!*
 
-*Atuo como Analista de QA, com foco em automação de testes de software. Me formando em Engenharia de Software e me especializando em Qualidade de Software. Com forte experiência em testes funcionais, não funcionais, API, e automação de testes utilizando o framework Cypress.*</br>
+*Atuo como Analista de QA, com foco em automação de testes de software. Formando em Engenharia de Software e especializado em Qualidade de Software. Com forte experiência em testes funcionais, não funcionais, API, e automação de testes utilizando o framework Cypress.*</br>
 *Fui engenheiro da millennium falcon por um dia! #Realizado!*
 
 <div align="center">
