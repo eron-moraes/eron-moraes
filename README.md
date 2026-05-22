@@ -38,3 +38,31 @@
   ![snake gif](https://github.com/eron-moraes/eron-moraes/blob/output/github-contribution-grid-snake.svg?&theme=dracula)
   ##
 
+  ✅ **CT002 PASSOU**
+
+---
+
+### CT003: Execução do Sincronizador de Registros
+
+**Objetivo**: Validar sincronização entre sistemas VISA
+
+**Funcionalidade**: 
+```csharp
+await _sincronizadorDeRegistrosDomainService.SincronizarAsync();
+```
+
+**Pré-requisitos**:
+- ✓ Serviço ISincronizadorDeRegistrosDomainService registrado
+- ✓ Conexão com banco de dados
+- ✓ Implementação de sincronização disponível
+
+**Fluxo**:
+1. Chamada do método SincronizarAsync()
+2. Sincronização de registros entre PREVISAO e outras tabelas
+3. Atualização de statuses
+
+**Validações Esperadas**:
+- ✓ Método executa sem exceção
+- ✓ Registros sincronizados
+- ✓ ProcessamentoStatus atualizado para 2
+
