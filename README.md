@@ -5,10 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/eron-moraes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&show_icons=true&layout=compact&langs_count=8&theme=dracula"/>
-
-
-
+    
+</div>
 
 <div style="display: inline_block"><br>
   
