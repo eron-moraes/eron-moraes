@@ -35,5 +35,9 @@
   <a href="https://www.linkedin.com/in/eronmoraes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ##
-  ![snake gif](https://github.com/eron-moraes/eron-moraes/blob/output/github-contribution-grid-snake.svg?&theme=dracula)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eron-moraes/eron-moraes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eron-moraes/eron-moraes/output/github-contribution-grid-snake.svg" />
+    <img alt="snake gif" src="https://raw.githubusercontent.com/eron-moraes/eron-moraes/output/github-contribution-grid-snake.svg" />
+  </picture>
   ##
