@@ -40,4 +40,3 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eron-moraes/eron-moraes/output/github-contribution-grid-snake.svg" />
     <img alt="snake gif" src="https://raw.githubusercontent.com/eron-moraes/eron-moraes/output/github-contribution-grid-snake.svg" />
   </picture>
-  ##
