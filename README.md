@@ -3,6 +3,11 @@
 *Atuo como Analista de QA, com foco em automação de testes de software. Formando em Engenharia de Software e especializado em Qualidade de Software. Com forte experiência em testes funcionais, não funcionais, API, e automação de testes utilizando o framework Cypress e Robor Framework.*</br>
 *Fui engenheiro da millennium falcon por um dia! #Realizado!*
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eron-moraes&show_icons=true&layout=compact&langs_count=8&theme=dracula"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eron-moraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 <div align="center">
   <a href="https://github.com/eron-moraes">
     
